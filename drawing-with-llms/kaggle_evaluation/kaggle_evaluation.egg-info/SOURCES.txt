@@ -1,0 +1,13 @@
+setup.py
+core/__init__.py
+core/base_gateway.py
+core/relay.py
+core/templates.py
+core/generated/__init__.py
+core/generated/kaggle_evaluation_pb2.py
+core/generated/kaggle_evaluation_pb2_grpc.py
+kaggle_evaluation.egg-info/PKG-INFO
+kaggle_evaluation.egg-info/SOURCES.txt
+kaggle_evaluation.egg-info/dependency_links.txt
+kaggle_evaluation.egg-info/requires.txt
+kaggle_evaluation.egg-info/top_level.txt
